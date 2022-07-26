@@ -5,14 +5,14 @@ public class Main {
         cliente.nombre = "Cesar";
         cliente.edad = 28;
         cliente.telefono = 981159596;
-        cliente.credito = 150.000;
+        cliente.credito = 150.555;
         System.out.println("Soy " + cliente.nombre + ", tengo " + cliente.edad + " años y mi telefono es " + cliente.telefono
                 + " y mi credito disponible es " + cliente.credito + "Gs.");
 
         trabajador.nombre = "Ivan";
         trabajador.edad = 29;
         trabajador.telefono = 981330130;
-        trabajador.salario = 200000;
+        trabajador.salario = 200.156;
         System.out.println("Soy " + trabajador.nombre + ", tengo " + trabajador.edad + " años y mi telefono es " + trabajador.telefono
                 + " y mi salario es de " + trabajador.salario + "Gs.");
 
