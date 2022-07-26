@@ -2,9 +2,9 @@ public class Main {
     public static void main(String[] args) {
 
         Persona persona = new Persona();
-        persona.setNomb("Raul");
+        persona.setNomb("Cesar");
         System.out.println("Mi nombre es " + persona.getNomb());
-        persona.setEdad(23);
+        persona.setEdad(28);
         System.out.println("Tengo " + persona.getEdad() + " años");
         persona.setTelef(829240212);
         System.out.println("Mi teléfono es " + persona.getTelef());
